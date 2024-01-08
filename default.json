@@ -4,7 +4,7 @@
         "OpenButton": 0,
         "HideIcon": false,
         "HideIconAfter": 60,
-        "IconURL": "https://imgur.com/a/HmuKwzL",
+        "IconURL": "https://i.imgur.com/cLcf2Ld.jpg",
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "Welcome",
           "title1": "Welcome to JAG Gaming",
-          "text1": "Here at JAG Gaming we pride ourselves in bringing you a fun balanced PVE experience as close to official without the official bs. /n/nBelow you will find a link to our discord. In discord we discuss any changes to the server and hold votes for any major changes. Please join us in discord to be a part of the community.",
+          "text1": "Here at JAG Gaming we pride ourselves in bringing you a fun balanced PVE experience as close to official without the official bs. \n\nBelow you will find a link to our discord. In discord we discuss any changes to the server and hold votes for any major changes. Please join us in discord to be a part of the community.",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext": "Rules",
           "title1": "Rules",
-          "text1": "Main Rules/nThe Wildcard Official Code of Conduct/TOS (Terms of Service) applies, meaning anything that is forbidden on official is forbidden here which includes meshing, abusing game mechanics and utilizing game bugs for any purpose./n/n/nCharacter names can not be generic or obscene. Examples:123 321 Human Survivor Bob are not allowed and will be changed./n/nNo GRIEFING of any kind. (No stealing from, blocking access to, or kiting/dropping wilds into others bases)/n/nAbsolutely NO SPAMMING of foundations, pillars, or anything else. (We are here to get away from the official spamfest)/n/nIf you tame something, either take it back to your base or kill it if you do not want it. (ie:  Gachas in Sunken Forest)/n/nDo not park tames at obelisks if your not actively transferring them off or getting ready for a boss fight./n/nDo not block access to explorer notes, runes, glitches, etc. If you must build where one of the following are, you must have a way for someone looking for said item to access without you being online./n/nNO BUILDING ALLOWED (as the maps release)/nCharacter Spawn Points, Obelisk, Terminals, Artifact Caves and Locations, Aberration Surface Entrance Caves, Extinction Titan Caves, around Desert Drops on Scorched Earth or Ragnarok",
+          "text1": "Main Rules\nThe Wildcard Official Code of Conduct/TOS (Terms of Service) applies, meaning anything that is forbidden on official is forbidden here which includes meshing, abusing game mechanics and utilizing game bugs for any purpose.\n\n\nCharacter names can not be generic or obscene. Examples:123 321 Human Survivor Bob are not allowed and will be changed.\n\nNo GRIEFING of any kind. (No stealing from, blocking access to, or kiting/dropping wilds into others bases)\n\nAbsolutely NO SPAMMING of foundations, pillars, or anything else. (We are here to get away from the official spamfest)\n\nIf you tame something, either take it back to your base or kill it if you do not want it. (ie:  Gachas in Sunken Forest)\n\nDo not park tames at obelisks if your not actively transferring them off or getting ready for a boss fight.\n\nDo not block access to explorer notes, runes, glitches, etc. If you must build where one of the following are, you must have a way for someone looking for said item to access without you being online.\n\nNO BUILDING ALLOWED (as the maps release)\nCharacter Spawn Points, Obelisk, Terminals, Artifact Caves and Locations, Aberration Surface Entrance Caves, Extinction Titan Caves, around Desert Drops on Scorched Earth or Ragnarok",
 		  "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
@@ -36,7 +36,7 @@
           "layout": 1,
           "buttontext": "Commands",
           "title1": "BetterChat Commands",
-          "text1": "/suicide (Kills youinstantly)/n/unstuck (Teleports you a close distance from where you are. If on a dino it will also teleport your dinos)/n/discord (will invite you to our discord)/n/donate (Will take you to our Nitrado link for any donation to run time)",
+          "text1": "/suicide (Kills youinstantly)\n/unstuck (Teleports you a close distance from where you are. If on a dino it will also teleport your dinos)\n/discord (will invite you to our discord)\n/donate (Will take you to our Nitrado link for any donation to run time)",
 		   "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
 	  }
